@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">get name test1</string>
+    <string name="enter_first_name">Enter Your First Name</string>
+    <string name="enter_last_name">Enter Your Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="result">Result</string>
+</resources>
